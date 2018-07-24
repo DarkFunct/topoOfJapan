@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Style id="color_line">
+<LineStyle>
+<color>ffb40014</color>
+<width>3</width>
+</LineStyle>
+</Style>
+<Style id="icon_style">
+<IconStyle><color>ff00ffff</color>
+<scale>0.5</scale>
+<Icon><href>juanjo_Router.png</href></Icon></IconStyle>
+</Style>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>131.76470700000002,33.127639,80000 131.45318400000002,33.246904,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl><Point><altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>131.76470700000002,33.127639,80000</coordinates></Point></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl><Point><altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>131.45318400000002,33.246904,80000</coordinates></Point></Placemark>
+</Document></kml>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Style id="color_line">
+<LineStyle>
+<color>ffff3ef3</color>
+<width>1.2</width>
+</LineStyle>
+</Style>
+<Style id="icon_style">
+<IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>default.png</href></Icon></IconStyle>
+</Style>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>134.18921109131253,35.397874123975534,0 134.065446,35.551068,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>134.31402559682783,35.35965704014537,0 134.376364,35.286108,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>134.12694176199156,35.49781748857448,0 134.065446,35.551068,80000</coordinates></LineString></Placemark>
+</Document></kml>

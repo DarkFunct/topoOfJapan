@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Style id="color_line">
+<LineStyle>
+<color>ffff3ef3</color>
+<width>1.2</width>
+</LineStyle>
+</Style>
+<Style id="icon_style">
+<IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>default.png</href></Icon></IconStyle>
+</Style>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>140.84433291696936,38.28515821363236,0 140.89532256488474,38.27141516427709,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>140.83346020526503,38.24012106833178,0 140.84778950105,38.205455683991,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>140.9180225432348,38.172547809239916,0 140.949686781358,38.21595881062351,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>140.8520781633851,38.18020956701022,0 140.84778950105,38.205455683991,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>140.71320279759644,38.05765953708246,0 140.84778950105,38.205455683991,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>140.76976795391144,38.25053271002501,0 140.84778950105,38.205455683991,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>140.6751200955439,38.267960276569795,0 140.84778950105,38.205455683991,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>140.76571099560633,38.213930550164825,0 140.84778950105,38.205455683991,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>141.0785588124674,38.35160653631786,0 140.88638280310425,38.34049333768,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>140.74407388464573,38.357069804415765,0 140.88638280310425,38.34049333768,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>140.79236945353082,38.28268314091848,0 140.89047262720163,38.30882023011896,80000</coordinates></LineString></Placemark>
+</Document></kml>

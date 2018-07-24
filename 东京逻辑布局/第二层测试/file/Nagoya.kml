@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Style id="color_line">
+<LineStyle>
+<color>ffb40014</color>
+<width>3</width>
+</LineStyle>
+</Style>
+<Style id="icon_style">
+<IconStyle><color>ff00ffff</color>
+<scale>0.5</scale>
+<Icon><href>juanjo_Router.png</href></Icon></IconStyle>
+</Style>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>137.0562905071198,35.19137026554042,80000 136.7228757144433,34.93463235457648,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>137.3431781706792,35.5419,80000 137.0562905071198,35.19137026554042,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>137.00670159273176,34.96460015534238,80000 137.0562905071198,35.19137026554042,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.8088042793547,35.301822666836806,80000 137.0562905071198,35.19137026554042,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.77094759042788,34.7577,80000 136.7228757144433,34.93463235457648,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.8088042793547,35.301822666836806,80000 136.7228757144433,34.93463235457648,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>137.0562905071198,35.19137026554042,80000 136.8088042793547,35.301822666836806,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>137.72559999999996,35.065166082364016,80000 137.0562905071198,35.19137026554042,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.77094759042788,34.7577,80000 137.0562905071198,35.19137026554042,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>137.0562905071198,35.19137026554042,80000 137.3431781706792,35.5419,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>137.3431781706792,35.5419,80000 137.0562870435618,35.523011340514934,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.8205665223186,35.13836295650543,80000 137.0562905071198,35.19137026554042,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>137.0562870435618,35.523011340514934,80000 137.0562905071198,35.19137026554042,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>137.00670159273176,34.96460015534238,80000 136.8088042793547,35.301822666836806,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.8205665223186,35.13836295650543,80000 137.00670159273176,34.96460015534238,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.56399999999996,35.14131705380732,80000 137.0562905071198,35.19137026554042,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.8205665223186,35.13836295650543,80000 136.56399999999996,35.14131705380732,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>137.0562870435618,35.523011340514934,80000 137.3431781706792,35.5419,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>137.0562905071198,35.19137026554042,80000 136.56399999999996,35.14131705380732,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>137.0562905071198,35.19137026554042,80000 137.00670159273176,34.96460015534238,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.7228757144433,34.93463235457648,80000 137.0562905071198,35.19137026554042,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.8088042793547,35.301822666836806,80000 137.0562870435618,35.523011340514934,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.8205665223186,35.13836295650543,80000 136.8088042793547,35.301822666836806,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.7228757144433,34.93463235457648,80000 137.00670159273176,34.96460015534238,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.8088042793547,35.301822666836806,80000 136.8205665223186,35.13836295650543,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.8088042793547,35.301822666836806,80000 136.56399999999996,35.14131705380732,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.8088042793547,35.301822666836806,80000 137.00670159273176,34.96460015534238,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.77094759042788,34.7577,80000 137.00670159273176,34.96460015534238,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.77094759042788,34.7577,80000 136.8205665223186,35.13836295650543,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.77094759042788,34.7577,80000 136.56399999999996,35.14131705380732,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>137.0562905071198,35.19137026554042,80000 136.8205665223186,35.13836295650543,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>137.00670159273176,34.96460015534238,80000 136.8205665223186,35.13836295650543,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>137.0562905071198,35.19137026554042,80000 137.0562870435618,35.523011340514934,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>136.56399999999996,35.14131705380732,80000 136.8205665223186,35.13836295650543,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><altitudeMode>relativeToGround</altitudeMode><coordinates>137.0562870435618,35.523011340514934,80000 136.8205665223186,35.13836295650543,80000</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl><Point><altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>137.0562905071198,35.19137026554042,80000</coordinates></Point></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl><Point><altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>136.7228757144433,34.93463235457648,80000</coordinates></Point></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl><Point><altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>137.3431781706792,35.5419,80000</coordinates></Point></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl><Point><altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>137.00670159273176,34.96460015534238,80000</coordinates></Point></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl><Point><altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>136.8088042793547,35.301822666836806,80000</coordinates></Point></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl><Point><altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>136.77094759042788,34.7577,80000</coordinates></Point></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl><Point><altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>137.72559999999996,35.065166082364016,80000</coordinates></Point></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl><Point><altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>137.0562870435618,35.523011340514934,80000</coordinates></Point></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl><Point><altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>136.8205665223186,35.13836295650543,80000</coordinates></Point></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl><Point><altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>136.56399999999996,35.14131705380732,80000</coordinates></Point></Placemark>
+</Document></kml>

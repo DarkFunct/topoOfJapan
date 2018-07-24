@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Style id="color_line">
+<LineStyle>
+<color>ffffffff</color>
+<width>1</width>
+</LineStyle>
+</Style>
+<Style id="icon_style">
+<IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>default.png</href></Icon></IconStyle>
+</Style>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>default.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>104.0667,30.6667,0</coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>104.0667,30.6667,0 104.058986,30.676235,0</coordinates></LineString></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>default.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>120.1614,30.2936,0</coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>120.1614,30.2936,0 120.161519,30.295558,0</coordinates></LineString></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>default.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>121.42509,31.022,0</coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>121.42509,31.022,0 121.468973,31.232382,0</coordinates></LineString></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>default.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>116.3517916,39.959013,0</coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>116.3517916,39.959013,0 116.391464,39.903152,0</coordinates></LineString></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>default.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>116.340848,39.97924,0</coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>116.340848,39.97924,0 116.391464,39.903152,0</coordinates></LineString></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>default.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>116.3044,39.9923,0</coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>116.3044,39.9923,0 116.391464,39.903152,0</coordinates></LineString></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>default.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>116.3263,40.003834,0</coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>116.3263,40.003834,0 116.391464,39.903152,0</coordinates></LineString></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>default.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>113.25,23.1167,0</coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>113.25,23.1167,0 113.295827,23.116548,0</coordinates></LineString></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>default.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>106.5528,29.5628,0</coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>106.5528,29.5628,0 106.547819,29.565937,0</coordinates></LineString></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>default.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>114.2734,30.5801,0</coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>114.2734,30.5801,0 114.304197,30.577806,0</coordinates></LineString></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>default.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>117.2808,31.8639,0</coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>117.2808,31.8639,0 117.270667,31.863063,0</coordinates></LineString></Placemark>
+</Document></kml>

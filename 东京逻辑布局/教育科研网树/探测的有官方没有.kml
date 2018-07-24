@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>探测的有官方没有.kml</name>
+	<Style id="color_line">
+		<LineStyle>
+			<color>cc00ff00</color>
+		</LineStyle>
+	</Style>
+	<Style id="color_line5">
+		<LineStyle>
+			<color>cc00ff00</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="color_line1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#color_line</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#color_line5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>探测的有官方没有</name>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					117.270667,31.863063,40000 121.468973,31.232382,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391464,39.903152,40000 121.468973,31.232382,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					120.208335,30.255611,40000 121.453236,37.472478,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					121.468973,31.232382,40000 121.453236,37.472478,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391448,39.903169,40000 117.270667,31.863063,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391464,39.903152,40000 118.766351,32.053245,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					113.6372,34.751441,40000 121.468973,31.232382,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391448,39.903169,40000 115.882153,28.686987,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					113.373663,23.162472,40000 116.391448,39.903169,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391464,39.903152,40000 113.295827,23.116548,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391464,39.903152,40000 120.208335,30.255611,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391448,39.903169,40000 112.96724,28.211238,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					114.304197,30.577806,40000 116.391448,39.903169,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					121.468973,31.232382,40000 114.304197,30.577806,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					112.96724,28.211238,40000 117.270667,31.863063,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					121.468973,31.232382,40000 112.96724,28.211238,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					121.468973,31.232382,40000 115.882153,28.686987,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					113.295827,23.116548,40000 121.468973,31.232382,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					113.295827,23.116548,40000 114.304197,30.577806,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					118.092456,24.485664,40000 112.96724,28.211238,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					113.295827,23.116548,40000 119.318831,26.044403,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>北京-济南</name>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391448,39.903169,40000 117.012646,36.676284,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					121.453236,37.472478,40000 117.012646,36.676284,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391448,39.903169,40000 120.372878,36.098733,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>烟台-青岛</name>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					121.453236,37.472478,40000 120.372878,36.098733,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391448,39.903169,40000 121.453236,37.472478,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					121.468973,31.232382,40000 111.306444,30.723747,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					121.468973,31.232382,40000 106.547819,29.565937,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391464,39.903152,40000 111.306444,30.723747,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					108.942031,34.273136,40000 114.304197,30.577806,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					108.942031,34.273136,40000 113.295827,23.116548,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					112.96724,28.211238,40000 106.547819,29.565937,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391464,39.903152,40000 106.7432,29.813215,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>昆明-北京</name>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					102.706752,25.045892,40000 116.391464,39.903152,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>贵阳-北京</name>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391464,39.903152,40000 106.698979,26.627339,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391448,39.903169,40000 108.28674,22.803607,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391448,39.903169,40000 110.319935,20.018357,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					108.942031,34.273136,40000 113.6372,34.751441,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					108.942031,34.273136,40000 114.509551,38.042421,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					108.942031,34.273136,40000 112.53813,37.883505,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					110.319935,20.018357,40000 103.814428,36.058318,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391464,39.903152,40000 103.814428,36.058318,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					116.391448,39.903169,40000 104.058986,30.676235,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					104.058986,30.676235,40000 116.391448,39.903169,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					104.058986,30.676235,40000 114.509551,38.042421,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					104.058986,30.676235,40000 112.53813,37.883505,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					104.058986,30.676235,40000 113.6372,34.751441,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					104.058986,30.676235,40000 114.304197,30.577806,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>兰州-成都</name>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					104.058986,30.676235,40000 103.814428,36.058318,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>西宁-成都</name>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					104.058986,30.676235,40000 101.759559,36.634487,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>北京-青海</name>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.759559,36.634487,40000 116.391464,39.903152,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>银川-成都</name>
+			<open>1</open>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					104.058986,30.676235,40000 106.195666,38.495805,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					108.942031,34.273136,40000 111.646999,40.821342,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					104.058986,30.676235,40000 111.646999,40.821342,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					121.582046,38.941861,40000 116.391448,39.903169,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					108.942031,34.273136,40000 123.420011,41.800551,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					104.058986,30.676235,40000 123.420011,41.800551,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					112.96724,28.211238,40000 125.300722,43.889919,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#color_line1</styleUrl>
+			<LineString>
+				<coordinates>
+					125.300722,43.889919,40000 116.391464,39.903152,40000 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

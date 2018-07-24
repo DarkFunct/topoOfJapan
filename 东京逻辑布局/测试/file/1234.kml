@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Style id="color_line">
+<LineStyle>
+<color>ffffffff</color>
+<width>1</width>
+</LineStyle>
+</Style>
+<Style id="icon_style">
+<IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>default.png</href></Icon></IconStyle>
+</Style>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>139.7677,35.6427,0 137.3628,33.73962,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>137.3628,33.73962,0 134.9579,31.83654,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>134.9579,31.83654,0 132.553,29.93346,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>132.553,29.93346,0 130.1481,28.03038,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>130.1481,28.03038,0 127.7432,26.1273,0</coordinates></LineString></Placemark>
+
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>142.1833,27.0833,0 141.68542,28.796680000000002,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>141.68542,28.796680000000002,0 141.18754,30.51006,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>141.18754,30.51006,0 140.68966,32.22344,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>140.68966,32.22344,0 140.19178000000002,33.93682,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>140.19178000000002,33.93682,0 139.6939,35.6502,0</coordinates></LineString></Placemark>
+
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>127.767,26.1445,0 130.1516,28.0536,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>130.1516,28.0536,0 132.5362,29.962699999999998,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>132.5362,29.962699999999998,0 134.92079999999999,31.8718,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>134.92079999999999,31.8718,0 137.3054,33.780899999999995,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>137.3054,33.780899999999995,0 139.69,35.69,0</coordinates></LineString></Placemark>
+
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>139.69,35.69,0 138.01418,33.741119999999995,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>138.01418,33.741119999999995,0 136.33836,31.79224,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>136.33836,31.79224,0 134.66254,29.843359999999997,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>134.66254,29.843359999999997,0 132.98672,27.894479999999998,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>132.98672,27.894479999999998,0 131.3109,25.9456,0</coordinates></LineString></Placemark>
+
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>140.1233,35.6047,0 137.63486,33.72626,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>137.63486,33.72626,0 135.14642,31.84782,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>135.14642,31.84782,0 132.65798,29.96938,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>132.65798,29.96938,0 130.16954,28.09094,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>130.16954,28.09094,0 127.6811,26.2125,0</coordinates></LineString></Placemark>
+
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>136.9025,35.1598,0 135.05700000000002,33.36484,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>135.05700000000002,33.36484,0 133.2115,31.569879999999998,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>133.2115,31.569879999999998,0 131.36599999999999,29.774919999999998,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>131.36599999999999,29.774919999999998,0 129.5205,27.97996,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>129.5205,27.97996,0 127.675,26.185,0</coordinates></LineString></Placemark>
+</Document></kml>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Style id="color_line">
+<LineStyle>
+<color>cc00ff00</color>
+<width>0.8</width>
+</LineStyle>
+</Style>
+<Style id="icon_style">
+<IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href></Icon></IconStyle>
+</Style>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>-1,0,0 3,0,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>3,0,0 1.5,2,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>1.5,2,0 -1,0,0</coordinates></LineString></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>0.2,0.7,0</coordinates></Point></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>0.5,1,0</coordinates></Point></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>0.7,0.2,0</coordinates></Point></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>0.8,0.6,0</coordinates></Point></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>1.3,0.3,0</coordinates></Point></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>1.4,0.9,0</coordinates></Point></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>1.1,1.1,0</coordinates></Point></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>1.6,0.4,0</coordinates></Point></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>1.7,0.7,0</coordinates></Point></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>1.6,1.2,0</coordinates></Point></Placemark>
+<Placemark><Style><IconStyle><color>ff00ffff</color>
+<scale>0.4</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href></Icon></IconStyle></Style><Point><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>2,1.1,0</coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>0.2,0.7,0 0.8,0.6,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>0.5,1,0 0.8,0.6,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>0.7,0.2,0 0.8,0.6,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>0.8,0.6,0 1.4,0.9,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>1.3,0.3,0 1.4,0.9,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>1.4,0.9,0 1.1,1.1,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>1.4,0.9,0 1.6,0.4,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>1.1,1.1,0 1.7,0.7,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>1.1,1.1,0 1.6,1.2,0</coordinates></LineString></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl><LineString><coordinates>1.6,1.2,0 2,1.1,0</coordinates></LineString></Placemark>
+</Document></kml>
